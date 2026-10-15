@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+PyJWT
+bcrypt
+python-dotenv
+python-multipart
+email-validator
+qrcode
+pillow
+pytest
+pytest-cov
+httpx
+websockets
